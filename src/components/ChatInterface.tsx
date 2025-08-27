@@ -150,7 +150,6 @@ const ChatInterface = () => {
           boxShadow: "0px 5.72px 45.79px 0px hsl(0 0% 0% / 0.5)",
           overflow: "hidden",
           backdropFilter: "blur(38.415px)",
-          positionBehavior: "relative" as any,
         }}
       >
         <span
